@@ -28,6 +28,7 @@ rl.question('¿Qué mes quieres mirar? (formato 01 al 12): ', (mes) => {
       { nombre: 'Albert', disponible: true, categoria: 'C.T. CADET MASCULÍ PROMOCIÓ', equip: 'BÀSQUET SANT SADURNÍ NEGRE' },
       { nombre: 'Maria', disponible: true, categoria: 'C.T. JÚNIOR FEMENÍ PROMOCIÓ', equip: 'BÀSQUET SANT SADURNÍ NEGRE' },
       { nombre: 'Marti', disponible: true, categoria: 'C.T. CADET MASCULÍ PROMOCIÓ', equip: 'BÀSQUET SANT SADURNÍ GROC' },
+      { nombre: 'Eloy', disponible: true, categoria: 'C.T. CADET MASCULÍ PROMOCIÓ', equip: 'BÀSQUET SANT SADURNÍ GROC' },
       { nombre: 'Federada', disponible: true },
       // Agrega más personas según sea necesario
     ];
